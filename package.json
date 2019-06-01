@@ -1,0 +1,10 @@
+{
+  "name": "abaijs",
+  "version": "0.0.1",
+  "dependencies": {
+    "grumpy": "^0.1.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
